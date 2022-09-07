@@ -35,5 +35,5 @@ showOutput(`No pain no gain and no gain no pain`);
 
 
 function showOutput(message) {
-outputBox.innerHTML = massage;
+outputBox.innerHTML = message;
 }
